@@ -12,7 +12,7 @@
 [a_eb2]: http://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c
 [a_tb]: http://thbecker.net/articles/auto_and_decltype/section_03.html
 [a_af]: http://fusharblog.com/3-ways-to-define-comparison-functions-in-cpp/
-[a-M]: https://mbevin.wordpress.com/2012/11/20/move-semantics/
+[a_m]: https://mbevin.wordpress.com/2012/11/20/move-semantics/
 
 ## Questions
 * 
