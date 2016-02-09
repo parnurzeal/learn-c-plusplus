@@ -16,7 +16,9 @@
 
 ## Questions
 * What is the most elegant way to read a text file into a single string with c++? [[stackoverflow][sto_read_files]]
+* How to use stringstream to separate comma separated strings? [[stackoverflow][sto_stringstream_with_delim]]
 [sto_read_files]: http://stackoverflow.com/questions/195323/what-is-the-most-elegant-way-to-read-a-text-file-with-c
+[sto_stringstream_with_delim]: http://stackoverflow.com/questions/11719538/how-to-use-stringstream-to-separate-comma-separated-strings
 
 ## Quick Tips
 * To move all elements in vector A -> B [[stackoverflow][sto_move]]
