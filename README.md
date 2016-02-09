@@ -15,7 +15,8 @@
 [a_m]: https://mbevin.wordpress.com/2012/11/20/move-semantics/
 
 ## Questions
-* 
+* What is the most elegant way to read a text file with c++? [[stackoverflow][sto_read_files]]
+[sto_read_files]: http://stackoverflow.com/questions/195323/what-is-the-most-elegant-way-to-read-a-text-file-with-c
 
 ## Quick Tips
 * To move all elements in vector A -> B [[stackoverflow][sto_move]]
