@@ -25,10 +25,12 @@
 * How to use stringstream to separate comma separated strings? [[stackoverflow][sto_stringstream_with_delim]]
 * How to read file line-by-line? [[stackoverflow][sto_read_line_by_line]]
 * Read whole ASCII file to std::string? [[stackoverflow][sto_ascii_to_string]]
+* "const static"? [[stackoverflow][sto_const_static]]
 [sto_read_files]: http://stackoverflow.com/questions/195323/what-is-the-most-elegant-way-to-read-a-text-file-with-c
 [sto_stringstream_with_delim]: http://stackoverflow.com/questions/11719538/how-to-use-stringstream-to-separate-comma-separated-strings
 [sto_read_line_by_line]: http://stackoverflow.com/questions/7868936/read-file-line-by-line
 [sto_ascii_to_string]: http://stackoverflow.com/questions/2602013/read-whole-ascii-file-into-c-stdstring
+[sto_const_static]: http://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c
 
 ## Quick Tips
 * To move all elements in vector A -> B [[stackoverflow][sto_move]]
